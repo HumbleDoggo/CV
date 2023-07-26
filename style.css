@@ -1,0 +1,63 @@
+body {
+  background-color: rgb(243, 187, 124);
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.Contain {
+  display: grid;
+  grid-template-columns: 250px 550px;
+  border-radius: 10px;
+  border-width: 3px;
+  border-style: solid;
+  border-color: black;
+  width: 900px;
+  height: 1510px;
+  margin-left: 1050px;
+  background-color: rgb(164, 223, 243);
+  box-shadow: 3px 3px 5px black;
+}
+h1 {
+  font-size: 85px;
+  font-style: italic;
+}
+h2 {
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(7, 0, 88, 0.852);
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+}
+.Course {
+  font-size: 45px;
+  text-decoration: none;
+  opacity: 0.75;
+}
+.Picture,
+img {
+  width: 280px;
+  border-radius: 140px;
+}
+.left-section {
+  background-color: rgba(179, 169, 169, 0.556);
+  height: 1250px;
+  width: 280px;
+  border-radius: 10px;
+  margin-left: 40px;
+  margin-top: 90px;
+}
+.contacts {
+  margin-left: 10px;
+  text-align: j;
+}
+.Tech-Skills {
+  margin-left: 10px;
+}
+.SoftSkills {
+  margin: 10px;
+}
+
+.right-section {
+  margin-left: 100px;
+  height: 1150px;
+}
